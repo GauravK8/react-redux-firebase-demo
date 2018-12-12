@@ -1,0 +1,11 @@
+.dynamic-firstname {
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    color: blue;
+    font-size: 18px;
+}
+
+.hr-seperator {
+    border-top: 10px solid rgba(0,0,0,.1);
+}
